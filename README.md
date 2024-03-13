@@ -10,3 +10,7 @@ at the time i didnt know it was possible to download the drawing as SVG/PNG/JS, 
 ## lampda
 my first actual blot code! this appears in blot's art directory as "lampda_snipchu"
 this one took like 4 hours to make and has maybe one too many variables.. but it was so worth it in the end :)
+
+## slacklogo
+this is one of the easier logos to code on blot..
+i think i'll start trying to code logos onto blot, they're really fun (and easy) to make lol
